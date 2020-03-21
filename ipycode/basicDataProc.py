@@ -5,6 +5,7 @@ import os
 from  名称定义 import *
 import imp
 import basicLib
+from  xlsProLib import *
 import glbcfg
 import basicLib  
 import swaplib    
